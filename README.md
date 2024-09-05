@@ -1,4 +1,5 @@
-<h4 align="left">👩‍💻 Full-stack developer with 14 years of experience in C#, Angular, and Flutter. 🎓 Bachelor's in Systems Analysis, and post-grads in Leadership and Architecture. Passionate about building user-friendly interfaces and optimizing backends. Check out my latest projects on Github!</h4>
+<h4 align="left">👩‍💻 Full-stack developer with 15 years of experience in C#, swiftui, and Flutter. 
+🎓 Bachelor's in Systems Analysis, and post-grads in Leadership and Other</h4>
 
 ###
 
